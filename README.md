@@ -1,2 +1,3 @@
 # Financial-Analyzer
-Analyzes financial records to give smart dashboards and intellegence.
+
+Analyzes financial records to give smart dashboards and intelligence.
